@@ -5,12 +5,12 @@
 Для установки на ноутбук или домашний компьютер, необходимо:
 
 1) Установить ffmpeg.
-   
-  a) Скачать https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
-  b) Установить в папку C:\ffmpeg на компьютер
 
-3) Установить библиотеку в командной строке pywhispercpp
+   - Скачать https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
+   - Установить в папку C:\ffmpeg на компьютер
+
+4) Установить библиотеку в командной строке pywhispercpp
    
-4) Запустить через IDE WhisperCPP.py
+5) Запустить через IDE WhisperCPP.py
 
 Примечание: Наиболее оптимально работает модель "medium"
